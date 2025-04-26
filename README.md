@@ -15,3 +15,8 @@ Usado para armazenar os projetos desenvolvidos na disciplina de Responsive Web D
  - Criação de uma paginação
  - Usando HTML5 e CSS3
  - [Ver Projeto](https://guilhermeveloso005.github.io/responsive-web-development/pagination/)
+
+4. Atividades com JS
+ - Atividades utilizando Id, Name e Classes
+ - Utilizando JS pela primeira vez.
+ - [Ver Atividade]()
